@@ -16,14 +16,14 @@ let isAwesome = true
 
 let 你猜 = "nicai"
 let 😄 = "smile"
-println(你猜+😄)
+print(你猜+😄)
 
 let someString = "I appear to be a string"
-let components = "~/Documents/Swift".pathComponents
+//let components = "~/Documents/Swift".pathComponents
 
 var shoppingList = ["catfish", "water", "tulips", "blue paint"]
 shoppingList[1] = "bottle of water"
-println(shoppingList)
+print(shoppingList)
 
 
 var dict = ["dict1":"nicai","dict2":"nicai2",]
